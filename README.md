@@ -30,7 +30,7 @@ This Jupyter Notebook is designed to help **Forex traders** calculate pip values
 4. **Profit Calculation**:
    The estimated profit or loss is calculated based on the pip value and the expected pip movement:
 
-   $$ \text{Profit/Loss} = \text{Pip Value} \times \text{Pip Movement} $$
+   $$ \text{Profit or Loss} = \text{Pip Value} \times \text{Pip Movement} $$
 
    Where:
    - **Pip Value** is the value of one pip for the given currency pair and lot size.
