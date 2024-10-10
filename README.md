@@ -49,6 +49,7 @@ Where:
 - **Pip Movement** is the number of pips the market moves (can be positive for gains or negative for losses).
 
 For example, if the pip movement is `50 pips` and the pip value is `0.0000912 USD`, the profit would be:
+
 $$
 \text{Profit} = 0.0000912 \times 50 = 0.00456 \, \text{USD}
 $$
