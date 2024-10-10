@@ -65,11 +65,15 @@ The notebook provides the following outputs:
 For a user trading the **EUR/USD** pair with a **lot size of 1.0** and an expected **pip movement of 50 pips**:
 - If the live exchange rate is `1.0965`, the pip value will be calculated as:
 
-  $$ \frac{0.0001}{1.0965} \times 1.0 = 0.0000912 \, \text{USD} $$
+  $$
+  \frac{0.0001}{1.0965} \times 1.0 = 0.0000912 \, \text{USD}
+  $$
 
 - If the market moves **50 pips**, the estimated profit would be:
 
-  $$ 0.0000912 \times 50 = 0.00456 \, \text{USD} $$
+  $$
+   0.0000912 \times 50 = 0.00456 \, \text{USD}
+  $$
 
 The notebook provides an easy way to estimate how much profit or loss a trader can expect from their trade.
 
