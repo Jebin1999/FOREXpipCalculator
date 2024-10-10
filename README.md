@@ -107,16 +107,3 @@ pip install pandas yfinance
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
----
-
-### Breakdown of the README:
-1. **Features**: Describes the primary functionalities of the notebook.
-2. **How It Works**: Provides an explanation of how the pip value and profit are calculated, with formulas written in LaTeX for better readability.
-3. **Example Workflow**: Includes a sample calculation showing how the pip value and profit are determined.
-4. **Prerequisites & Setup**: Instructions on how to set up the environment and run the notebook.
-5. **Future Enhancements**: A section suggesting future improvements.
-6. **License**: Includes license information for the project.
-
-This **README** should provide a clear and concise explanation for users who visit your GitHub repository. Let me know if you need any adjustments or further information!
