@@ -1,8 +1,4 @@
-Here’s an updated **GitHub README** for your `FOREXpipCalc.ipynb` notebook that includes the calculation formulas without showing the code.
 
-### README.md
-
-```markdown
 # FOREX Pip and Profit Calculator
 
 This Jupyter Notebook is designed to help **Forex traders** calculate pip values and potential profits based on currency pairs, lot sizes, and pip movements. It fetches **live exchange rates** using Yahoo Finance and provides real-time calculations of **pip values** and **potential profits** based on user inputs.
